@@ -1,0 +1,9 @@
+No arquivo app.js:
+SUPABASE_URL = URL do projeto Supabase
+SUPABASE_ANON_KEY = chave anon/public do projeto
+
+No GitHub Actions Secrets:
+SUPABASE_URL = URL do projeto Supabase
+SUPABASE_SERVICE_ROLE_KEY = chave service_role (somente backend)
+
+NUNCA coloque a service_role no app.js, HTML, CSS ou em repositório público.
