@@ -1,7 +1,7 @@
 // Configure com a URL do projeto e a chave anon/public do Supabase.
 // Nunca use a chave service_role neste arquivo.
-const SUPABASE_URL = "SUPABASE_URL_AQUI";
-const SUPABASE_ANON_KEY = "SUPABASE_ANON_KEY_AQUI";
+const SUPABASE_URL = "https://qykexphbnswigdigilro.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_rqPK51HkSRScazhqIEluIA_KAo6WF4W";
 const PAGE_SIZE = 25;
 let page = 0, allRows = [];
 
